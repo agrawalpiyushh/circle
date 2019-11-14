@@ -42,4 +42,4 @@ class Circle:
 
 if __name__ == "__main__":
     # Do something if this file is invoked on its own
-    print(Circle(5).area)
+    print(Circle(5))
