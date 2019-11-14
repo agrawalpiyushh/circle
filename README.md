@@ -1,7 +1,7 @@
 circle
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/circle.svg?branch=master)](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/circle)
+[![Travis Build Status](https://travis-ci.org/bcalden/circle.svg?branch=master)](https://travis-ci.org/bcaldencircle)
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/circle/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/circle/branch/master)
 
 A demo project for APS Hack Day 2019
