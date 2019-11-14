@@ -35,9 +35,9 @@ class Circle:
     def area(self):
         return π * (self.radius ** 2)
 
-    # @property
-    # def circumference(self):
-    #     return 2* π * self.radius
+    @property
+    def circumference(self):
+        return 2* π * self.radius
 
 
 if __name__ == "__main__":
