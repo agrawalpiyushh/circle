@@ -20,6 +20,7 @@ def test_circle_radius():
     test_area = π * (test_radius**2)
     assert  test_area == circle.Circle(test_radius).area
 
-# def test_circle_circumference(test_circle):
-#     test_circumference = 2 * π * test_radius
-#     assert test_circumference == test_circle.circumference
+def test_circle_circumference():
+    test_radius = 5
+    test_circumference = 2 * π * test_radius
+    assert test_circumference == circle.Circle(test_radius).circumference
