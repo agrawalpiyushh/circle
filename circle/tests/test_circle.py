@@ -24,3 +24,8 @@ def test_circle_circumference():
     test_radius = 5
     test_circumference = 2 * π * test_radius
     assert test_circumference == circle.Circle(test_radius).circumference
+
+def test_circle__str__():
+    test_radius = 5
+    test__str__ = f"Circle(radius={test_radius})"
+    assert test__str__ == str(circle.Circle(test_radius))
